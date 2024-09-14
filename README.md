@@ -1,0 +1,1 @@
+This project involves the analysis of an E-commerce dataset from Olist, a Brazilian online marketplace. The analysis utilizes a combination of tools, including Excel for data cleaning, SQL for database operations, and Power BI for visualization. The dataset comprises nine distinct tables, each providing valuable insights into different aspects of the Olist store operations.
